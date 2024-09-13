@@ -1,0 +1,8 @@
+ligne 1
+ligne 2
+<<<<<<< HEAD
+Je modifie la ligne 3
+=======
+je modifie la ligne 3 dans master
+>>>>>>> e710ab0 (Generation du conflit: Modification de la ligne 3 de conflict-rb.txt dans master)
+
